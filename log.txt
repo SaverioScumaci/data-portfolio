@@ -2,3 +2,6 @@ July 8th, 2025
 Today I started working on Leetcode SQL problems. I was able to get through 5 questions today which I am happy about. I needed some assistance from ChatGPT on 4 of them,
 but now I understand how to do them, and could replicate the answers. It has been about two years since I last regularly used SQL so I will give myself some grace on not remembering
 much at all. 
+
+July 9th, 2025
+Completed three more practice SQL problems in Leetcode. Mostly working on joins and nested queries. Again used ChatGPT and google to explain the questions I had, and to teach me more about these concepts. 
