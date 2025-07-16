@@ -8,3 +8,6 @@ Completed three more practice SQL problems in Leetcode. Mostly working on joins 
 
 July 13th, 2025
 Completed an additional Leetcode SQL question. Completed this time without any external assistance at all. 
+
+July 14th, 2025
+Finished the Leetcode question "Find Total Time Spent by Each Employee" and did the first 10 queries on the website SQL island.
