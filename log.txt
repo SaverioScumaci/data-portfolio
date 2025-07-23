@@ -1,6 +1,5 @@
 July 8th, 2025
-Today I started working on Leetcode SQL problems. I was able to get through 5 questions today which I am happy about. I needed some assistance from ChatGPT on 4 of them,
-but now I understand how to do them, and could replicate the answers. It has been about two years since I last regularly used SQL so I will give myself some grace on not remembering
+Today I started working on Leetcode SQL problems. I was able to get through 5 questions today which I am happy about. I needed some assistance from ChatGPT on 4 of them,but now I understand how to do them, and could replicate the answers. It has been about two years since I last regularly used SQL so I will give myself some grace on not remembering
 much at all. 
 
 July 9th, 2025
@@ -14,3 +13,6 @@ Finished the Leetcode question "Find Total Time Spent by Each Employee" and did 
 
 July 17th, 2025 
 Completed three more Leetcode SQL questions - Big Countries, Not Boring Movies, and Recyclable and Low Fat Products without any outside assistance from AI. Focused on filters and conditional logic.
+
+July 22nd, 2025
+Worked on three more Leetcode problems. Product Sales Analysis I, Fix Names in a Table, and Game Play Analysis I where I worked on using left, right, concat, upper, lower, group by, and order by. Felt good to get back into the swing of things. 
